@@ -6,7 +6,7 @@
 - 🔧 Téc. em Desenvolvimento de Sistemas
 
 <!-- ![Julevi GitHub stats](https://github-readme-stats.vercel.app/api?username=julevi&show_icons=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julevi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julevi&theme=dark)
 
 ### Projetos Atuais:
 - 📋 Projeto Atual: Money Master, Sistema de Gerenciamento Financeiro;
