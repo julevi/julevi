@@ -5,7 +5,7 @@
 - 🎓 Graduando Análise e Desenvolvimento de Sistemas
 - 🔧 Téc. em Desenvolvimento de Sistemas
 
-![Julevi GitHub stats](https://github-readme-stats.vercel.app/api?username=julevi&show_icons=true)
+<!-- ![Julevi GitHub stats](https://github-readme-stats.vercel.app/api?username=julevi&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julevi)
 
 ### Projetos Atuais:
