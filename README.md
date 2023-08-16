@@ -1,12 +1,23 @@
 # Olá, eu sou Juliana! 👋🏽
 
-<img align="center" alt="Meu Personagem" height="150" width="150" src="img-me.png">
+<table>
+  <tr>
+    <td>
+      <img align="center" alt="Meu Personagem" height="150" width="150" src="img-me.png">
+    </td>
+    <td>
+      <ul>
+        <li>🧑🏽‍💻 Full-Stack Developer</li>
+        <li>✏️ Design & UI</li>
+        <li>💜 Paixão por Tecnologia</li>
+        <li>🎓 Graduando Análise e Desenvolvimento de Sistemas</li>
+        <li>🔧 Téc. em Desenvolvimento de Sistemas</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 🧑🏽‍💻 Full-Stack Developer
-- ✏️ Design & UI
-- 💜 Paixão por Tecnologia
-- 🎓 Graduando Análise e Desenvolvimento de Sistemas
-- 🔧 Téc. em Desenvolvimento de Sistemas
+
 
 <!-- ![Julevi GitHub stats](https://github-readme-stats.vercel.app/api?username=julevi&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julevi&theme=dark)
