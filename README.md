@@ -1,4 +1,7 @@
 # Olá, eu sou Juliana! 👋🏽
+
+<img align="center" alt="Meu Personagem" height="150" width="150" src="img-me.png">
+
 - 🧑🏽‍💻 Full-Stack Developer
 - ✏️ Design & UI
 - 💜 Paixão por Tecnologia
