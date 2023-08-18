@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img align="center" alt="Meu Personagem" height="150" width="150" src="img-me.png">
+      <img align="center" alt="Meu Personagem" width="150" src="img-me.png">
     </td>
     <td>
       <ul>
