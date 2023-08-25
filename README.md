@@ -19,14 +19,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julevi&size_weight=0.5&count_weight=0.5&theme=transparent)
 
-##
-### Projetos Atuais:
-- 📋 Projeto Atual: Money Master, Sistema de Gerenciamento Financeiro;
-- 📈 Status: Atualizando Nova Versão
-- Confira o [Repositório do Money Master](https://github.com/julevi/controle-de-gastos)
+## Projetos:
+#### Money Master
+- 📋 Sistema de Gerenciamento Financeiro
+- 📈 Status: Finalizado
+- Confira o [Repositório do Money Master](https://github.com/julevi/moneyMaster)
 - Confira o [Deploy do Money Master](https://julevi.github.io/moneyMaster/)
-##
-### Tecnologias:
+## Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
