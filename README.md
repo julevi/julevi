@@ -24,7 +24,7 @@
 - 📋 Projeto Atual: Money Master, Sistema de Gerenciamento Financeiro;
 - 📈 Status: Atualizando Nova Versão
 - Confira o [Repositório do Money Master](https://github.com/julevi/controle-de-gastos)
-- Confira o [Deploy do Money Master](https://controledegastos-jprado.netlify.app/)
+- Confira o [Deploy do Money Master](https://julevi.github.io/moneyMaster/)
 ##
 ### Tecnologias:
 <div style="display: inline_block"><br>
