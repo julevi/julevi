@@ -1,4 +1,4 @@
-# Olá, eu sou Juliana! 👋🏽
+# 👋🏽 Juliana Prado - Full Stack Developer
 
 <table>
   <tr>
@@ -17,19 +17,15 @@
   </tr>
 </table>
 
-## Projetos:
-#### Money Master
-- 📋 Sistema de Gerenciamento Financeiro
-- 📈 Status: Finalizado
-- Confira o [Repositório do Money Master](https://github.com/julevi/moneyMaster)
-- Confira o [Deploy do Money Master](https://julevi.github.io/moneyMaster/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=julevi&theme=dark&border=0000&fire=FF9100&ring=b266ff&currStreakLabel=b266ff)](https://github.io/julevi) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julevi&layout=compact&bg_color=151515&border_color=0000&title_color=fff&text_color=FFF)
+
+## Meus Projetos:
+
+[![Repo Money Master](https://github-readme-stats.vercel.app/api/pin/?username=julevi&repo=moneyMaster&bg_color=151515&border_color=0000&show_icons=true&icon_color=fff&title_color=b266ff&text_color=fff)](https://github.com/julevi/moneyMaster) [![Repo Portfolio Juliana Prado](https://github-readme-stats.vercel.app/api/pin/?username=julevi&repo=portfolio-juliana&bg_color=151515&border_color=0000&show_icons=true&icon_color=fff&title_color=b266ff&text_color=fff)](https://github.com/julevi/portfolio-juliana)
+
 ## Tecnologias:
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3) ![Sass](https://img.shields.io/badge/Sass-151515?style=for-the-badge&logo=sass) ![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript) ![Java](https://img.shields.io/badge/java-151515.svg?style=for-the-badge&logo=openjdk) ![React](https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react) ![PostgreSQL](https://img.shields.io/badge/postgresql-151515?style=for-the-badge&logo=postgresql)
+
+## Contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jpradoweb/)
+[![Github](https://img.shields.io/badge/Github-151515?style=for-the-badge&logo=github)](https://github.com/julevi)
