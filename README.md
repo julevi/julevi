@@ -1,4 +1,4 @@
-# 👋🏽 Juliana Prado - Full Stack Developer
+# 👋🏽 Olá, sou Juliana Prado!
 
 <table>
   <tr>
@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=julevi&theme=dark&border=0000&fire=FF9100&ring=b266ff&currStreakLabel=b266ff)](https://github.io/julevi) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julevi&layout=compact&bg_color=151515&border_color=0000&title_color=fff&text_color=FFF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=julevi&theme=dark&border=0000&fire=FF9100&ring=b266ff&currStreakLabel=b266ff) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julevi&layout=compact&bg_color=151515&border_color=0000&title_color=fff&text_color=FFF)
 
 ## Meus Projetos:
 
