@@ -1,11 +1,6 @@
 # 👋🏽 Olá, sou Juliana Prado!
 
 <table>
-  <tr>
-    <td>
-      <img align="center" alt="Meu Personagem" width="150" src="img-me.png">
-    </td>
-    <td>
       <ul>
         <li>🧑🏽‍💻 Full-Stack Developer</li>
         <li>✏️ Design & UI</li>
@@ -13,8 +8,6 @@
         <li>🎓 Graduando Análise e Desenvolvimento de Sistemas</li>
         <li>🔧 Téc. em Desenvolvimento de Sistemas</li>
       </ul>
-    </td>
-  </tr>
 </table>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=julevi&theme=dark&border=0000&fire=FF9100&ring=b266ff&currStreakLabel=b266ff) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=julevi&layout=compact&bg_color=151515&border_color=0000&title_color=fff&text_color=FFF)
