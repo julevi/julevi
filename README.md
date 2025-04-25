@@ -6,6 +6,7 @@
         <li>✏️ Design & UI</li>
         <li>💜 Paixão por Tecnologia</li>
         <li>🎓 Graduada em Análise e Desenvolvimento de Sistemas</li>
+      <li>🎓 Pós Graduação em Análise de Dados</li>
         <li>🔧 Téc. em Desenvolvimento de Sistemas</li>
       </ul>
 </table>
