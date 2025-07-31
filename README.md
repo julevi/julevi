@@ -14,4 +14,4 @@ Feel free to explore, give feedback, or connect!
 ## Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jpradoweb/)
 [![Github](https://img.shields.io/badge/Github-151515?style=for-the-badge&logo=github)](https://github.com/julevi)
-[![Potfólio](https://img.shields.io/badge/site-151515?style=for-the-badge&logo=site)]((https://julevi.github.io/portfolio-juliana/))
+[![Potfólio](https://img.shields.io/badge/site-151515?style=for-the-badge&logo=site)](https://julianaprado.dev/)
